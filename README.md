@@ -1,3 +1,4 @@
+### INTERN ID: CITS2025
 
 ## 🎬 YouTube Video Downloader
 
@@ -181,11 +182,21 @@ Before running the project, make sure you have the following installed:
 ## Python Libraries
 
 - pytubefix
+- 
 
----
 ## 📸 Application Preview
 
-![YouTube Video Downloader](screenshots/app.png)
+### YouTube Video Downloader Interface
+
+![Application Preview](app.png)
+
+---
+
+### Download Completed
+
+![Download Success](downloaded.png)
+
+---
 
 ## 🚀 Future Improvements
 
@@ -200,6 +211,24 @@ Before running the project, make sure you have the following installed:
 ## 👩‍💻 Author
 
 **Yashasree Mada**
+
+Python Developer | Software Development Enthusiast
+
+GitHub Profile:  
+https://github.com/madayashasree05
+
+---
+
+## 🤝 Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
+
+For any issues, suggestions, or improvements:
+
+- Open an issue in the GitHub repository
+- Share your feedback to help improve the project
+
+Thank you for visiting this project! 🚀
 
 ---
 
