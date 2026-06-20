@@ -183,6 +183,9 @@ Before running the project, make sure you have the following installed:
 - pytubefix
 
 ---
+## 📸 Application Preview
+
+![YouTube Video Downloader](screenshots/app.png)
 
 ## 🚀 Future Improvements
 
